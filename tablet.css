@@ -1,0 +1,41 @@
+@media (max-width: 1024px) {
+  .center {
+    padding-left: calc(50% - 428px);
+    padding-right: calc(50% - 428px);
+  }
+  .content__left {
+    padding-left: calc(50% - 428px);
+  }
+  .header {
+    width: 100%;
+  }
+  .header__navbar {
+    gap: 32px;
+  }
+  .content__right {
+    background: url(img/miniback.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    overflow: hidden;
+  }
+  .content__right_cinnabon {
+    display: none;
+  }
+  .content__right_coffee {
+    display: none;
+  }
+  content__right_cookie {
+    display: none;
+  }
+  .content__right_beans {
+    display: none;
+  }
+  .product-box {
+    gap: 13px;
+  }
+  .product {
+    width: 256px;
+    height: 380px;
+  }
+}/*# sourceMappingURL=tablet.css.map */
