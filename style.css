@@ -202,25 +202,25 @@ a {
 }
 .content__right_coffee {
   position: absolute;
-  left: 700px;
+  left: 600px;
   top: 23%;
   z-index: 2;
 }
 .content__right_beans {
   position: absolute;
-  left: 1156px;
+  left: 1056px;
   top: 30%;
   z-index: 2;
 }
 .content__right_cookie {
   position: absolute;
-  left: 700px;
+  left: 600px;
   top: 85%;
   z-index: 2;
 }
 .content__right_cinnabon {
   position: absolute;
-  left: 970px;
+  left: 870px;
   top: 55%;
   z-index: 2;
 }
